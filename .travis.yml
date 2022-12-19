@@ -14,4 +14,4 @@ env:
       - echo "${COSIGN_PASSWORD}"
       - echo "${COS_PASSWORD}"
       - docker logout
-      - python hello_world.py
+      - python hello_world.py 
